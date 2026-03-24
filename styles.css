@@ -1,0 +1,102 @@
+* {
+    font-family: "Roboto";
+}
+
+.header {
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.text {
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
+
+.text-title {
+    font-size: 48px;
+    font-weight: 900px;
+}
+
+.sub-text {
+    font-size: 18px;
+}
+
+.button-one {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 3px;
+    border-width: 0;
+}
+
+.info-title {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.info-card-box {
+    color: #1F2937;
+}
+
+.empty {
+    border: #3882F6;
+}
+
+.quote {
+    background-color: #E5E7EB;
+}
+
+.quote-text {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic
+}
+
+.quote-name {
+    color: #1F2937;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.action-box {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-size: 18px;
+}
+
+.action-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.button-two {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-size: 18px;
+    font-weight: bold;
+    border: 1px solid #F9FAF8;
+    border-radius: 3px;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
